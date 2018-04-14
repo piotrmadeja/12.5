@@ -1,0 +1,45 @@
+body {
+  background-color: #55ACEE;
+  color: white;
+}
+
+header {
+  text-align: center;
+  margin: 50px 0 50px 0;
+  font-size: 25px;
+}
+
+.box {
+  border-top: 1px solid white;
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 50px;
+  text-align: center;
+  border-top: 1px solid white;
+}
+.buttons button {
+  margin-top: 20px;
+  background-color: lightblue;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  border: 1px solid;
+}
+.buttons .tweet {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
+.buttons .tweet .fa {
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  border: 1px solid white;
+  border-radius: 50%;
+  color: white;
+  font-size: 23px;
+}
+
+/*# sourceMappingURL=style.css.map */
